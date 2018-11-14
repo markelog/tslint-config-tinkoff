@@ -1,0 +1,31 @@
+{
+  "name": "tslint-config-tinkoff",
+  "description": "A TSLint config for Tinkoff JavaScript Style",
+  "version": "0.0.1",
+  "bugs": {
+    "url": "https://github.com/markelog/tslint-config-tinkoff/issues"
+  },
+  "dependencies": {
+    "tslint-config-airbnb": "^5.11.0",
+    "tslint-consistent-codestyle": "^1.14.1",
+    "tslint-eslint-rules": "^5.4.0",
+    "tslint-microsoft-contrib": "^5.2.1"
+  },
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
+  },
+  "homepage": "https://github.com/markelog/tslint-config-tinkoff/#readme",
+  "keywords": [
+    "tinkoff",
+    "tslint",
+    "typescript"
+  ],
+  "license": "Apache-2.0",
+  "main": "tslint.js",
+  "peerDependencies": {
+    "tslint": "^5.8.0"
+  },
+  "repository": "github:markelog/tslint-config-tinkoff"
+}
